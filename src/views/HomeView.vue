@@ -187,7 +187,7 @@
 
     .Map {
         width: 100%;
-        height: 600px; /* CRITICAL: The map MUST have a height */
+        /* height: 600px; CRITICAL: The map MUST have a height  */
         background: #e2e8f0; /* Placeholder color while loading */
         border-radius: 16px;
         overflow: hidden;
